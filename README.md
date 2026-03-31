@@ -18,7 +18,7 @@ Data Health Metrics Being Monitored: - Freshness - Data updates occur every 24 h
 
 ### 2. Data Health & System Monitoring
 
-![System Health](https://github.com/peteo0098/Azure-Crypto-Data-Observability/raw/main/Data%20observability.png)
+![System Health](https://github.com/peteo0098/Azure-Crypto-Data-Observability/raw/main/images/Data%20observability.png)
 
 
 ---
